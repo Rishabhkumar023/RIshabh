@@ -1,6 +1,6 @@
 # 💼 Rishabh Kumar – Developer Portfolio
 
-🚀 **Live Demo:** [Rishabh Kumar Portfolio](https://grow8569.github.io/Rishabhkumar.github.io/)
+🚀 **Live Demo:** [Rishabh Kumar Portfolio](https://rishabhkumar023.github.io/RIshabh/)
 
 Welcome to my personal developer portfolio! This site showcases my skills, projects, and contact information in a responsive and modern layout. Built using HTML, CSS, and JavaScript, this portfolio is designed to reflect my professional journey and technical capabilities.
 
